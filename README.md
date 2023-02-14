@@ -22,3 +22,5 @@ chave estrangeira, índice, esquemas, view, consulta, procedures, funções, tri
 *Apagando banco de dados https://dev.mysql.com/doc/refman/8.0/en/create-database.html
 * DROP: comando utilizado para apagar um banco de dados.
 
+* Criando Tabela
+* Nomenclatura 
